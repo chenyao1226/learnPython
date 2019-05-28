@@ -9,17 +9,22 @@
 
 '''
 
+
 class A:
     pass
+
 
 class B(A):
     pass
 
+
 class C(A):
     pass
 
-class D(B,C):
+
+class D(B, C):
     pass
+
 
 print(D.__mro__)
 
@@ -27,16 +32,21 @@ print(D.__mro__)
 class A1:
     pass
 
+
 class A2:
     pass
+
 
 class B(A1):
     pass
 
+
 class C(A2):
     pass
 
-class D(B,C):
+
+class D(B, C):
     pass
+
 
 print(D.__mro__)

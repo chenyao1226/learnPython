@@ -10,13 +10,17 @@ python中的自省机制
 dir()也可以实现类似的功能
 '''
 
+
 class Person:
     name = '中国人'
 
+
 class Student:
     country = "china"
+
     def __init__(self, school_name):
         self.shcool_name = school_name
+
 
 stu = Student("北京四中")
 print(stu.__dict__)

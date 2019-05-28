@@ -13,8 +13,9 @@ python中一切皆对象，所有的类type的实例，所以type是可以创建
 '''
 
 
-def say(self):    # 需要带有self参数
+def say(self):  # 需要带有self参数
     print("hello")
+
 
 class_obj = type("Person", (), {"name": "eric", "say": say})
 p = class_obj()
@@ -24,13 +25,14 @@ print(type(class_obj))
 print(class_obj.__bases__)
 print(class_obj.__dict__)
 
-
 '''什么是元类？ 元类就是创建类的类，就是指的type，所以编写一个元类的时候要继承type
 '''
+
 
 class UserMetaClass(type):
     def __new__(cls, *args, **kwargs):
         return super().__new__(cls, *args, **kwargs)
+
 
 class User(metaclass=UserMetaClass):
     def __init__(self, name):
@@ -38,6 +40,8 @@ class User(metaclass=UserMetaClass):
 
     def __str__(self):
         return "user"
+
+
 '''
 进行实例化的时候，会先找metaclass，如果有metaclass，就会通过metaclass创建类对象和实例，本类中没有metaclass就会查找基类的，
 如果都找不到就会通过默认的type创建

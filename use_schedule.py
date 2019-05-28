@@ -3,16 +3,22 @@
 # @Time    : 2018/4/11 13:43
 # @Author  : ChenYao
 # @File    : use_schedule.py
-import time
 import datetime
 import sched
 import threading
+import time
+
+'''
+使用sched实现定时执行任务
+'''
+
 
 # ---------------sched的enter方法可以实现周期性的调用方法----------------------------
 
 
 class SchedulerThread(threading.Thread):
     """可以注册每天定时执行的任务, """
+
     def __init__(self):
         threading.Thread.__init__(self)
         self.schedule = sched.scheduler(time.time, time.sleep)

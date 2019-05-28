@@ -11,6 +11,7 @@
     3. yield的send方法会消耗一次生成器
 '''
 
+
 def gen_func():
     v1 = yield 1
     print("1:", v1)
@@ -21,6 +22,7 @@ def gen_func():
     v4 = yield 4
     print("4:", v1)
     return "haha"
+
 
 gen = gen_func()
 gen.send(None)  # 第一次执行生成器采用了send方法，这里已经消耗了一次生成器,我们已经取不到 http://www.baidu.com了
@@ -35,11 +37,13 @@ print(next(gen))
     1. 执行完close方法之后，如果继续调用生成器是会报错的
 '''
 
+
 def gen_func():
     yield "http://www.baidu.com"
     yield 2
     yield 3
     yield 4
+
 
 # gen = gen_func()
 # print(next(gen))
@@ -54,6 +58,7 @@ def gen_func():
     3. throw把异常抛给的是上一次的yield
     
 '''
+
 
 def gen_func():
     try:
@@ -73,7 +78,6 @@ def gen_func():
     except Exception:
         print("第4个yield")
     yield 5
-
 
 # gen = gen_func()
 # print(next(gen))

@@ -77,7 +77,9 @@ def get_url(url):
     print(html_data)
     client.close()
 
+
 '''非阻塞IO编程'''
+
 
 def get_url(url):
     # 通过socket请求html

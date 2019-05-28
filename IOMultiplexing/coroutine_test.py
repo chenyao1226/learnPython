@@ -17,10 +17,13 @@
             转而去执行其他的函数，过了一段时间之后又需要回来继续执行这个函数，那么如何实现暂停一个函数的执行，然后适时的又恢复执行呢？
             这就可以用到协程，而协程的实现原理就是生成器
 '''
+
+
 def get_url(url):
     html = get_html(url)
     # 我想跳出去
     urls = parse_html(html)
+
 
 def get_url2(url):
     html = get_html(url)

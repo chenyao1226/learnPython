@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd8eb078-fe24-4c6f-8bd1-3d2b43bcb82b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/metaclass/__init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/mongodb_program/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/test_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/use_orm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database programming/redis_program/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/cards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/vector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/gencomps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/listcomps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/more_about_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOMultiplexing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOMultiplexing/async_await.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/async_await.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOMultiplexing/coroutine_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/coroutine_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOMultiplexing/select_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/select_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOMultiplexing/select_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/select_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Cookbook/Chapter01-数据结构和算法/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Cookbook/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/UseXml.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/UseXml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/deal_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/deal_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/del_useless_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/del_useless_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tips/demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/file_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/file_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/filter_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/filter_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/find_dict_public_key.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/find_dict_public_key.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/keep_dict_ordered.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/keep_dict_ordered.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/learn_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/learn_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/repeat_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/repeat_item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/sort_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/sort_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/splice_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/splice_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/split_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/split_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/str_align.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/str_align.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/use_dque.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_dque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/use_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_iter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tips/use_iter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_iter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/an_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/an_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator&amp;generator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator&amp;generator/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaclass/MyOrm.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/MyOrm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaclass/attr_desc.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/attr_desc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaclass/getattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/getattr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaclass/metaclass_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/metaclass_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaclass/new_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/new_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_in_py3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/abc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/all_is_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/all_is_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/attr_mro.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/attr_mro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/class_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/class_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/class_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/class_var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/duck_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/duck_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/instance_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/instance_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/magic_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/magic_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/private_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/private_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/self_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/self_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/super_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/super_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/test_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/test_return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/test_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/test_with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/type_object_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/type_object_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/what_is_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/what_is_var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sequence_protocol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sequence_protocol/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket/socket_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/socket_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/socket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread&amp;process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread&amp;process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread&amp;process/concurrent_futures.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread&amp;process/concurrent_futures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_asyncio/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_asyncio/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/logging.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/to_logfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/to_stdout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/use_fileconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_logging/use_logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_schedule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_sqlalchemy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_tornado/first_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_tornado/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_zmq/__init__.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/an_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interview/__init__.py" />
+        <option value="$PROJECT_DIR$/interview/test.py" />
+        <option value="$PROJECT_DIR$/Fluent Python/chapter01/cards.py" />
+        <option value="$PROJECT_DIR$/use_tornado/first_demo.py" />
+        <option value="$PROJECT_DIR$/thread&amp;process/concurrent_futures.py" />
+        <option value="$PROJECT_DIR$/socket/socket_http.py" />
+        <option value="$PROJECT_DIR$/socket/socket_server.py" />
+        <option value="$PROJECT_DIR$/oo/all_is_object.py" />
+        <option value="$PROJECT_DIR$/oo/attr_mro.py" />
+        <option value="$PROJECT_DIR$/oo/class_method.py" />
+        <option value="$PROJECT_DIR$/oo/class_var.py" />
+        <option value="$PROJECT_DIR$/oo/context.py" />
+        <option value="$PROJECT_DIR$/oo/delete.py" />
+        <option value="$PROJECT_DIR$/oo/duck_type.py" />
+        <option value="$PROJECT_DIR$/oo/instance_type.py" />
+        <option value="$PROJECT_DIR$/oo/magic_function.py" />
+        <option value="$PROJECT_DIR$/oo/private_method.py" />
+        <option value="$PROJECT_DIR$/oo/self_ex.py" />
+        <option value="$PROJECT_DIR$/oo/super_test.py" />
+        <option value="$PROJECT_DIR$/oo/test_return.py" />
+        <option value="$PROJECT_DIR$/oo/test_with.py" />
+        <option value="$PROJECT_DIR$/oo/what_is_var.py" />
+        <option value="$PROJECT_DIR$/oo/type_object_class.py" />
+        <option value="$PROJECT_DIR$/metaclass/attr_desc.py" />
+        <option value="$PROJECT_DIR$/metaclass/getattr.py" />
+        <option value="$PROJECT_DIR$/metaclass/metaclass_test.py" />
+        <option value="$PROJECT_DIR$/metaclass/MyOrm.py" />
+        <option value="$PROJECT_DIR$/metaclass/new_init.py" />
+        <option value="$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py" />
+        <option value="$PROJECT_DIR$/IOMultiplexing/async_await.py" />
+        <option value="$PROJECT_DIR$/IOMultiplexing/coroutine_test.py" />
+        <option value="$PROJECT_DIR$/IOMultiplexing/select_http.py" />
+        <option value="$PROJECT_DIR$/IOMultiplexing/select_test.py" />
+        <option value="$PROJECT_DIR$/IOMultiplexing/__init__.py" />
+        <option value="$PROJECT_DIR$/iterator&amp;generator/__init__.py" />
+        <option value="$PROJECT_DIR$/metaclass/__init.py" />
+        <option value="$PROJECT_DIR$/oo/abc.py" />
+        <option value="$PROJECT_DIR$/oo/__init__.py" />
+        <option value="$PROJECT_DIR$/sequence_protocol/__init__.py" />
+        <option value="$PROJECT_DIR$/socket/__init__.py" />
+        <option value="$PROJECT_DIR$/thread&amp;process/__init__.py" />
+        <option value="$PROJECT_DIR$/Tips/__init__.py" />
+        <option value="$PROJECT_DIR$/use_asyncio/__init__.py" />
+        <option value="$PROJECT_DIR$/use_schedule.py" />
+        <option value="$PROJECT_DIR$/an_error.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/learnPython.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="IOMultiplexing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="metaclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="oo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="thread&amp;process" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.an_error">
+    <configuration name="an_error" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/an_error.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.an_error" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8eb078-fe24-4c6f-8bd1-3d2b43bcb82b" name="Default Changelist" comment="" />
+      <created>1556247441875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556247441875</updated>
+      <workItem from="1556247443006" duration="3536000" />
+      <workItem from="1559014473549" duration="1573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5109000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2020757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3291536" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learnPython$an_error.coverage" NAME="an_error Coverage Results" MODIFIED="1559016009303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPython$test.coverage" NAME="test Coverage Results" MODIFIED="1556248941678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/oo/all_is_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/attr_mro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/class_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/class_var.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/duck_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/instance_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/magic_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/private_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/self_ex.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/super_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/test_return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/test_with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/what_is_var.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/type_object_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/mixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/attr_desc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/metaclass_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/MyOrm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/new_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fluent Python/chapter01/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fluent Python/chapter01/cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#119#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/getattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOMultiplexing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOMultiplexing/async_await.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOMultiplexing/coroutine_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOMultiplexing/select_http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#123#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOMultiplexing/select_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1061">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#124#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterator&amp;generator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass/__init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/dict_abc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/dict_method.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/dict_subclass.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/slice_obj.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/bisect_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequence_protocol/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread&amp;process/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tips/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tips/del_useless_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tips/deal_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_asyncio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#125#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/an_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

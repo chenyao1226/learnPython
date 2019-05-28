@@ -8,7 +8,6 @@ from urllib.parse import urlparse
 
 '''使用select实现http请求'''
 
-import select
 '''
 pyhton中用select这个包，但是一般我们不使用这个包，而是使用selector，这个包是在select的基础上封装的，更加好用
 并且会根据平台自动班我们选择使用select模型还是epoll模型
@@ -19,6 +18,7 @@ from selectors import EVENT_WRITE, EVENT_READ, DefaultSelector
 selector = DefaultSelector()
 urls = ["http://www.baidu.com"]
 stop = False
+
 
 class Fetcher:
     def get_url(self, url):
@@ -40,10 +40,10 @@ class Fetcher:
 
         selector.register(fileobj=self.client.fileno(), events=EVENT_WRITE, data=self.send)
 
-
     def send(self, key):
         selector.unregister(key.fd)  # 代码执行到这里说明已经监听到之前的定义的事件了，现在要把它取消掉
-        self.client.send("GET {} HTTP/1.1\r\nHost:{}\r\nConnection:close\r\n\r\n".format(self.path, self.host).encode("utf8"))
+        self.client.send(
+            "GET {} HTTP/1.1\r\nHost:{}\r\nConnection:close\r\n\r\n".format(self.path, self.host).encode("utf8"))
         selector.register(self.client.fileno(), EVENT_READ, data=self.receive)
 
     def receive(self, key):
@@ -76,11 +76,11 @@ def loop():
             call_back = key.data
             call_back(key)
 
+
 if __name__ == "__main__":
     f = Fetcher()
     f.get_url("http://www.baidu.com")
     loop()
-
 
 '''
     利用select如何实现聊天群？

@@ -11,11 +11,14 @@
     4. 通过实例修改类变量只会影响该实例对该类变量的访问，不会影响其他实例的访问
 '''
 
+
 class A:
     aa = 1
+
     def __init__(self, x, y):
         self.x = x
         self.y = y
+
 
 a = A(2, 3)
 print(a.aa, a.x, a.y)

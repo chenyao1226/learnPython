@@ -10,17 +10,21 @@
         如果一个东西会叫（有say方法），那么我们就可以称它为动物，所以，Dog，Cat，Duck都是动物
 '''
 
+
 class Dog(object):
     def say(self):
         print("i am a dog")
+
 
 class Cat(object):
     def say(self):
         print("i am a cat")
 
+
 class Duck(object):
     def say(self):
         print("i am a duck")
+
 
 animal_list = [Dog, Cat, Duck]
 
@@ -46,6 +50,8 @@ a.extend(b)
 a.extend(s)
 a.extend(t)
 print(a)
+
+
 # 什么是可迭代类型呢？只要类中有__iter__或者__getitem__方法那么这个类就是可迭代的
 # 所以自定义一个可迭代的类，传递给extend方法一样没有问题
 class Company:
@@ -54,6 +60,7 @@ class Company:
 
     def __getitem__(self, item):
         return self.employee[item]
+
 
 company = Company(["tom", "jerry"])
 a.extend(company)

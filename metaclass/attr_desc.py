@@ -11,6 +11,8 @@ import numbers
 '''
 有一个Movie类，这个类有一个score的属性
 '''
+
+
 class Movie:
     def __init__(self, title, description, score, ticket):
         self.title = title
@@ -18,9 +20,11 @@ class Movie:
         self.description = description
         self.ticket = ticket
 
+
 '''
 设计完这个类之后，忽然发现Movie中的score属性不能为负的，所以需要对它进行一些约束，于是重新设计
 '''
+
 
 class Movie:
     def __init__(self, title, description, score, ticket):
@@ -30,11 +34,14 @@ class Movie:
         self.score = score
         self.description = description
         self.ticket = ticket
+
+
 '''
 但是这样不行，这样只会在Movie初始化的时候对score进行约束，对于已经存在的实例就无能为力了，因为通过实例依然可以修改score属性
 这时候可以使用property
 通过设置属性的getter, setter, deletter方法我们可以在任何地方对它进行约束
 '''
+
 
 class Movie:
     def __init__(self, title, score, ticket, desc):
@@ -62,6 +69,7 @@ class Movie:
     def score(self):
         raise AttributeError("Can not delete")
 
+
 '''
 如果也需要对ticket（票数）进行约束，那就也需要对它设置为属性，并规定setter方法，有没有一种通用的方式？
 这时候就可以用属性描述符
@@ -69,6 +77,8 @@ class Movie:
         __get__，__set__,__delete__的新式类，只要实现了这三种方法中任意一种就是描述符类
         2. 描述符会改变一个属性的获取，设置，删除的方式
 '''
+
+
 class Integer:
     def __init__(self, name):
         self.name = name
@@ -96,6 +106,7 @@ class Movie:
         self.score = score
         self.ticket = ticket
         self.desc = desc
+
 
 m = Movie("", -1, -1, "")
 print(m.score)

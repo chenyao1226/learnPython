@@ -5,6 +5,7 @@
 # @File    : context.py
 import contextlib
 
+
 @contextlib.contextmanager
 def file_open(file_name):
     print("file open")

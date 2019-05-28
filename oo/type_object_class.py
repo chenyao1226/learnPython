@@ -8,8 +8,8 @@
     弄清楚这三者之间的关系就可以知道为什么python中的一切皆对象
 '''
 
-a=1
-b='abc'
+a = 1
+b = 'abc'
 print(type(1))
 print(type(b))
 print(type(int))
@@ -18,8 +18,11 @@ print(type(str))
 '''
 通过上面的代码可以知道，所有我们常见的类的所属类型都是type，或者说是type的对象（实例），
 '''
+
+
 class Student:
     pass
+
 
 print(type(Student))
 

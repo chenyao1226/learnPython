@@ -12,12 +12,16 @@
     4. 可以当作函数的返回值（装饰器的原理）
 '''
 
+
 def ask(name="eric"):
     print(name)
+
 
 class Person:
     def __init__(self):
         print("alex")
+
+
 # 赋值给一个变量
 my_func1 = ask
 my_func1()
@@ -33,16 +37,20 @@ obj_list.append(Person)
 for obj in obj_list:
     print(obj())
 
+
 def print_type(item):
     print(type(item))
 
+
 print_type(ask)
 print_type(Person)
+
 
 # 可以当作函数的返回值（装饰器的原理）
 def decorator_func():
     print("dec start")
     return ask
+
 
 my_ask = decorator_func()
 my_ask()

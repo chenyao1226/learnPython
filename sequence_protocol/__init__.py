@@ -3,3 +3,7 @@
 # @Time    : 2018/5/2 22:17
 # @Author  : ChenYao
 # @File    : __init__.py.py
+
+'''
+pyhton中序列化的协议
+'''

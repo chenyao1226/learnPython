@@ -5,6 +5,7 @@ import numbers
 class Field:
     pass
 
+
 class IntField(Field):
     # 数据描述符
     def __init__(self, db_column, min_value=None, max_value=None):
@@ -98,6 +99,7 @@ class BaseModel(metaclass=ModelMetaClass):
         sql = "insert {db_table}({fields}) value({values})".format(db_table=self._meta["db_table"],
                                                                    fields=",".join(fields), values=",".join(values))
         pass
+
 
 class User(BaseModel):
     name = CharField(db_column="name", max_length=10)

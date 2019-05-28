@@ -19,6 +19,7 @@ def exe_try():
         print("finally")
         return 4
 
+
 if __name__ == "__main__":
     result = exe_try()
     print(result)
