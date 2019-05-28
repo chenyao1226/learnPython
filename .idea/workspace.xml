@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd8eb078-fe24-4c6f-8bd1-3d2b43bcb82b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/an_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/an_error.py" afterDir="false" />
-    </list>
+    <list default="true" id="bd8eb078-fe24-4c6f-8bd1-3d2b43bcb82b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/an_error.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+            <state relative-caret-position="468">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -229,12 +227,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556247441875</updated>
       <workItem from="1556247443006" duration="3536000" />
-      <workItem from="1559014473549" duration="2071000" />
+      <workItem from="1559014473549" duration="2538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5607000" />
+    <option name="totallyTimeSpent" value="6074000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -619,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/an_error.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        <state relative-caret-position="468">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
         </state>
       </provider>
     </entry>
