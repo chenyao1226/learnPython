@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd8eb078-fe24-4c6f-8bd1-3d2b43bcb82b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/metaclass/__init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/mongodb_program/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/test_mysql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/mysql_program/use_orm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database programming/redis_program/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/cards.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter01/vector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/gencomps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/listcomps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluent Python/chapter02/more_about_tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOMultiplexing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOMultiplexing/async_await.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/async_await.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOMultiplexing/coroutine_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/coroutine_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOMultiplexing/select_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/select_http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOMultiplexing/select_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOMultiplexing/select_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Cookbook/Chapter01-数据结构和算法/example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Cookbook/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/UseXml.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/UseXml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/deal_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/deal_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/del_useless_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/del_useless_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tips/demo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/file_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/file_op.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/filter_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/filter_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/find_dict_public_key.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/find_dict_public_key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/keep_dict_ordered.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/keep_dict_ordered.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/learn_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/learn_exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/repeat_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/repeat_item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/sort_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/sort_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/splice_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/splice_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/split_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/split_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/str_align.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/str_align.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/use_dque.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_dque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/use_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_iter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips/use_iter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tips/use_iter.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/an_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/an_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator&amp;generator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator&amp;generator/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator&amp;generator/gen_advanced.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaclass/MyOrm.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/MyOrm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaclass/attr_desc.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/attr_desc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaclass/getattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/getattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaclass/metaclass_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/metaclass_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metaclass/new_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/metaclass/new_init.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_in_py3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/all_is_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/all_is_object.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/attr_mro.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/attr_mro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/class_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/class_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/class_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/class_var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/context.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/duck_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/duck_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/instance_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/instance_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/magic_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/magic_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/private_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/private_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/self_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/self_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/super_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/super_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/test_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/test_return.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/test_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/test_with.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/type_object_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/type_object_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/what_is_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/what_is_var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequence_protocol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sequence_protocol/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/socket_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/socket_http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/socket_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread&amp;process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread&amp;process/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread&amp;process/concurrent_futures.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread&amp;process/concurrent_futures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_asyncio/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_asyncio/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/logging.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/to_logfile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/to_stdout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/use_fileconfig.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_logging/use_logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_schedule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_sqlalchemy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_tornado/first_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_tornado/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_zmq/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/an_error.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="399">
+              <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -230,6 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -311,12 +229,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556247441875</updated>
       <workItem from="1556247443006" duration="3536000" />
-      <workItem from="1559014473549" duration="1573000" />
+      <workItem from="1559014473549" duration="2071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5109000" />
+    <option name="totallyTimeSpent" value="5607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,7 +254,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,7 +263,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -701,8 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/an_error.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        <state relative-caret-position="399">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
         </state>
       </provider>
     </entry>
